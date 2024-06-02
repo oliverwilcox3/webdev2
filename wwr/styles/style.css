@@ -78,9 +78,6 @@ footer a:hover{color: black;}
 #hero-img{
     width: 550px;
 }
-.rivers-card{border: 10px solid #fcfbfb;
-    margin-top : 200px;} 
-.camping-card {border: 10px solid #fcfbfb;
-        margin-top : 200px;}
-.rapids-card{border: 10px solid #fcfbfb;
-    margin-top : 200px;}
+.rivers-card{border: 10px solid #fcfbfb;} 
+.camping-card {border: 10px solid #fcfbfb;}
+.rapids-card{border: 10px solid #fcfbfb;}
