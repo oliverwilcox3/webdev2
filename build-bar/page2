@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>Build A Bar - Page 2</title>
+    <link rel="stylesheet" href="styling/website.css">
+</head>
+<body>
+    <header>
+        <h1>Build A Bar Site Plan</h1>
+        <h2>FirstName LastName</h2>
+        <h2>WDD 130-[section]</h2>
+    </header>
+    <main>
+        <hr>
+        <h2>Content</h2>
+        <h3>Page 2</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+        <img src="pdeadlift.jpeg" alt="Page 2 Image">
+    </main>
+</body>
+</html>
