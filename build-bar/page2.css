@@ -1,0 +1,70 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db; /* Primary color */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.overview, .branding, .style-guide, .navigation, .content {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Oswald', sans-serif;
+}
+
+nav a {
+    background-color: #2ecc71; /* Secondary color */
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+nav a:hover {
+    background-color: #27ae60; /* Hover effect */
+}
+
+footer {
+    background-color: #3498db; /* Primary color */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 15px;
+}
+
+.primary {
+    background-color: #3498db;
+}
+
+.secondary {
+    background-color: #2ecc71;
+}
+
+.accent1 {
+    background-color: #e74c3c;
+}
+
+.accent2 {
+    background-color: #f1c40f;
+}
+
+.colored {
+    color: #ff6347; /* Example color */
+}
